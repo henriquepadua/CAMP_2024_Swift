@@ -1,1 +1,0 @@
-Swift é uma linguagem rápida e eficiente, que responde em tempo real e pode ser agregada com facilidade a um código Objective-C existente. Os desenvolvedores escrevem códigos mais seguros e confiáveis, economizam tempo e conseguem oferecer uma experiência ainda mais rica nos apps.
